@@ -1,0 +1,7 @@
+C:\CC6\ThowAway\Loops\Loop1\bin\Debug\Loop1.exe.config
+C:\CC6\ThowAway\Loops\Loop1\bin\Debug\Loop1.exe
+C:\CC6\ThowAway\Loops\Loop1\bin\Debug\Loop1.pdb
+C:\CC6\ThowAway\Loops\Loop1\obj\Debug\Loop1.csprojAssemblyReference.cache
+C:\CC6\ThowAway\Loops\Loop1\obj\Debug\Loop1.csproj.CoreCompileInputs.cache
+C:\CC6\ThowAway\Loops\Loop1\obj\Debug\Loop1.exe
+C:\CC6\ThowAway\Loops\Loop1\obj\Debug\Loop1.pdb
